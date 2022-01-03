@@ -1,2 +1,1 @@
-# recycle
-its easy, just press up arrow
+# pro-c25-template
